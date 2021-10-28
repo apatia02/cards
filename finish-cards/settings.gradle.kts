@@ -1,3 +1,0 @@
-
-rootProject.name = "finish-cards"
-
